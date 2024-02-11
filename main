@@ -42,3 +42,4 @@ while True:
         break
     else:
         print("Geçersiz seçim. Lütfen tekrar deneyin.")
+finşsh
