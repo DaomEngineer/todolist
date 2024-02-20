@@ -7,6 +7,7 @@ deneme 6
 deneme 7
 deneme 8
 deneme 9
+deneme 10
 to_do_list = []
 
 # Kullanıcıdan alınan girdileri listeye ekleyen fonksiyon
