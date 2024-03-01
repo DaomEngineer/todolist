@@ -1,4 +1,4 @@
-# Boş bir To-Do listesi oluşturma
+# This is a to do list
 
 to_do_list = []
 
