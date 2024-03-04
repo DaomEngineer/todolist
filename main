@@ -1,9 +1,9 @@
 # This is a to do list
-#code stated
+#code started
 
 to_do_list = []
 
-# Kullanıcıdan alınan girdileri listeye ekleyen fonksiyon
+# Get data from user
 def add_task(to_do_list):
     task = input("Yapılacak görevi girin: ")
     to_do_list.append(task)
