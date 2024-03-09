@@ -8,7 +8,7 @@ def add_task(to_do_list):
     to_do_list.append(task)
     print("Task is added.")
 
-# Listede bulunan görevleri gösteren fonksiyon
+# List
 def show_tasks(to_do_list):
     print("Yapılacak Görevler: ")
     for task in to_do_list:
