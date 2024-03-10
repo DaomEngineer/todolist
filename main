@@ -10,7 +10,7 @@ def add_task(to_do_list):
 
 # List
 def show_tasks(to_do_list):
-    print("Yapılacak Görevler: ")
+    print("To do list is : ")
     for task in to_do_list:
         print("- " + task)
 
