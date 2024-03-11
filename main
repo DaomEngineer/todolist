@@ -23,7 +23,7 @@ def delete_task(to_do_list):
     else:
         print("Görev bulunamadı.")
 
-# Ana döngü
+# Main looop
 while True:
     print("\nTo-Do List Uygulaması")
     print("1. Görev Ekle")
