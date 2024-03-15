@@ -14,7 +14,7 @@ def show_tasks(to_do_list):
     for task in to_do_list:
         print("- " + task)
 
-# Listeden görev silen fonksiyon
+# Delete the task from list
 def delete_task(to_do_list):
     task = input("Silmek istediğiniz görevi girin: ")
     if task in to_do_list:
